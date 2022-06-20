@@ -1,0 +1,35 @@
+
+#head1{
+    font-size: 50px;
+    text-align: center;
+    background-color:darkcyan;
+    
+}
+#search1{
+    margin:10px ;
+}
+#div2{
+    text-align: center;
+    margin: 50px;
+    
+}
+
+#div3{
+display: grid;
+    margin:150px;
+    grid-template-columns: repeat(3, 1fr);
+}
+img{
+    max-width: auto;
+    max-height: 20rem;
+
+}
+body{
+    
+
+    background-image: url('./pngtree-beauty-lipstick-lipstick-cosmetics-png-image_2214145.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
